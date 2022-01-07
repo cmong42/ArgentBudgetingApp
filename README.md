@@ -1,5 +1,1 @@
-# XCodeDev-ByChristine
-My Xcode Projects
-
-A complete list of every XCOde/Swift Project I've worked on. Enjoy!
-Christine
+A simple budgeting app I created using Google Authentication and Google Firestore in Swift and Xcode
